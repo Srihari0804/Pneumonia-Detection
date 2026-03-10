@@ -80,4 +80,3 @@ model = tf.keras.models.load_model('path_to_downloaded_model_file')
 ## 📂 Project Structure
 
 * `Normal_Pneumonia_Xray.ipynb` - The primary notebook containing the data pipeline, model building, training loop, and evaluation.
-* *(Include instructions on where users should place the raw dataset if they wish to train it themselves)*.
